@@ -1,0 +1,26 @@
+project:
+  type: book
+  execute-dir: project
+
+execute:
+  cache: false
+  echo: false
+  message: false
+  warning: false
+
+crossref:
+  labels: arabic
+  fig-labels: arabic
+  tbl-labels: arabic
+  subref-labels: arabic
+
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - theme-light.scss
+#      dark:
+#        - darkly
+#        - theme-dark.scss
+

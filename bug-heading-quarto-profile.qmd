@@ -1,0 +1,9 @@
+::: {.content-visible when-profile="NL"}
+# Bibliografie
+Bla bla bla
+:::
+
+::: {.content-visible when-profile="FR"}
+# Bibliographie
+Blah blah blah
+:::

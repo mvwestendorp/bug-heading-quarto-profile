@@ -1,0 +1,8 @@
+project:
+  output-dir: _report-NL
+
+book:
+  title: "NL document (shown correct)"
+  chapters:
+    - index.qmd
+    - bug-heading-quarto-profile.qmd
