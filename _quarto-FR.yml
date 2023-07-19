@@ -6,3 +6,4 @@ book:
   chapters:
     - index.qmd
     - bug-heading-quarto-profile.qmd
+    - toc-title-in-comment-in-r-code.qmd

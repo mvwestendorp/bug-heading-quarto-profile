@@ -15,6 +15,7 @@ crossref:
   subref-labels: arabic
 
 format:
+  pdf: default
   html:
     theme:
       light:
